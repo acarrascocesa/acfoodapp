@@ -41,7 +41,6 @@ const Navbar = () => {
                 className="navbar-show-btn text-white"
                 onClick={() => openSidebar()}
               >
-                <IoMdMenu size={27} />
               </button>
             </div>
           </div>
